@@ -1,9 +1,9 @@
 {
-  "name":"SUPREME-MD v1.0",
-  "description":"Deploy your own SUPREME-MD bot created by Supreme Alpha & Supreme Benjamin.Fill in your valuables. ",
+  "name":"Spark-Md v1.0",
+  "description":"Deploy your own Spark-Md bot.Fill in your valuables. ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/201479b521f3c8c245147.jpg",
-  "repository":"https://github.com/Supreme-Tech-Kenya/Supreme-Md",
+  "repository":"https://github.com/Maven-Nexus/Spark-Md",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"SUPREME-MD",
+      "value":"Spark-Md",
       "required":false
 
     } ,
@@ -74,14 +74,14 @@
     
     "desc": "Name",
     "required": false,
-    "value": "SUPREME-TECH"
+    "value": "Spark-Md"
   },
     "OWNER_NUMBER":
   {
     
     "desc": "Your coutry code for example 254..",
     "required":false,
-    "value": "254796266758, 254769702239"
+    "value": "254769702239"
   },
     "WARN_COUNT":
   {
