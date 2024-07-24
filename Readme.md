@@ -41,14 +41,14 @@ https://wa.me/2349024553612
  [**SUPREME BENJAMIN**](https://wa.me/254769702239) For several Cmds & ideas.
 [**BELTAH TECH**](https://wa.me/254114141192) For Providing a base of SUPREME-MD.---->
 
-🔗 TO JOIN OUR WHATSAPP CHANNEL.
+<!----🔗 TO JOIN OUR WHATSAPP CHANNEL.
 [**JOIN**](https://whatsapp.com/channel/0029VaeLIpA6mYPQ5dmuVe0C)
 
 🔗 TO JOIN OUR UPDATES GROUP.
 [**JOIN**](https://chat.whatsapp.com/Lq3VFHeqKXI5GNy3ZmadRG)
 
 🔗 TO JOIN OUR TELEGRAM CHANNEL.
-[**JOIN**](https://t.me/SupremeTech254)
+[**JOIN**](https://t.me/SupremeTech254) ----->
 
 🔗 DEVELOPERS OF Supreme-Md                                                                                               [**SUPREME ALPHAA**](https://wa.me/254719846879)                                                                          
 
