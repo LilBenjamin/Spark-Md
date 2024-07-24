@@ -36,9 +36,9 @@ Contribution to Supreme-Md are welcome!! If you have any idea for new Features ,
 
 🔗 THANKS TO 😊 :
 
- [**SUPREME ALPHA**](https://wa.me/254796266758) For code Encryption. 
+<!---- [**SUPREME ALPHA**](https://wa.me/254796266758) For code Encryption. 
  [**SUPREME BENJAMIN**](https://wa.me/254769702239) For several Cmds & ideas.
-<!---- [**BELTAH TECH**](https://wa.me/254114141192) For Providing a base of SUPREME-MD.---->
+[**BELTAH TECH**](https://wa.me/254114141192) For Providing a base of SUPREME-MD.---->
 
 🔗 TO JOIN OUR WHATSAPP CHANNEL.
 [**JOIN**](https://whatsapp.com/channel/0029VaeLIpA6mYPQ5dmuVe0C)
