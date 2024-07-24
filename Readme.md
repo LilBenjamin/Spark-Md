@@ -19,7 +19,7 @@
 
 🔗SETUP
 
-[**FORK REPO**](https:/you /github.com/Maven-Nexus/Spark-Md) FIRST and star 🌟 
+[**FORK**](https:/you /github.com/Maven-Nexus/Spark-Md) FIRST and star 🌟 
 
 Get SESSION ID by Pairing code or Scanning QR: 
 
