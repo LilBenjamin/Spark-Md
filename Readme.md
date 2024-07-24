@@ -7,7 +7,7 @@
   </p>
 <div align="center">
 
-| [![Supreme-Md](https://telegra.ph/file/201479b521f3c8c245147.jpg?lenght=50width=50)](https://github.com/Sepreme-Md)|
+| [![Spark-Md](https://telegra.ph/file/201479b521f3c8c245147.jpg?lenght=50width=50)](https://github.com/Sepreme-Md)|
 |----|
 
 <p align="center">
@@ -18,7 +18,9 @@
 
 
 🔗SETUP
-[**FORK**](https://github.com/Supreme-Tech-Kenya/Supreme-Md) FIRST and star 🌟 
+
+
+[**FORK**](https:/you /github.com/Maven-Nexus/Spark-Md) FIRST and star 🌟 
 
 Get SESSION ID by Pairing code or Scanning QR: 
 
@@ -26,32 +28,74 @@ Get SESSION ID by Pairing code or Scanning QR:
 _Copy the session ID to paste it on HEROKU
 
 🔗 DEPLOY TO HEROKU 
+
  
 If You Don't Have An Account On HEROKU  [**CREATE ACCOUNT NOW**](https://id.heroku.com/login) 
-If You Have An Heroku Account [**DEPLOY NOW**](https://dashboard.heroku.com/new?template=https://github.com/Supreme-Tech-Kenya/Supreme-Md)
+
+If You Have An Heroku Account [**DEPLOY NOW**](https://dashboard.heroku.com/new?template=https://github.com/Maven-Nexus/Spark-Md) it 
+
 
 🔗 CONTRIBUTIONS
 
 Contribution to Supreme-Md are welcome!! If you have any idea for new Features , Improvement , Bug Fixes , Feel Free to Senda DM to the provided contact below.
-https://wa.me/2349024553612
 
-🔗 THANKS TO 😊 :
+.[**Xander**](https://wa.me/2349024553612)
 
-<!---- [**SUPREME ALPHA**](https://wa.me/254796266758) For code Encryption. 
- [**SUPREME BENJAMIN**](https://wa.me/254769702239) For several Cmds & ideas.
-[**BELTAH TECH**](https://wa.me/254114141192) For Providing a base of SUPREME-MD.---->
 
-<!----🔗 TO JOIN OUR WHATSAPP CHANNEL.
-[**JOIN**](https://whatsapp.com/channel/0029VaeLIpA6mYPQ5dmuVe0C)
+ 
 
-🔗 TO JOIN OUR UPDATES GROUP.
-[**JOIN**](https://chat.whatsapp.com/Lq3VFHeqKXI5GNy3ZmadRG)
 
-🔗 TO JOIN OUR TELEGRAM CHANNEL.
-[**JOIN**](https://t.me/SupremeTech254) 
 
-<!---- 🔗 DEVELOPERS OF Supreme-Md             
 
-[**SUPREME ALPHAA**](https://wa.me/254719846879)                                                             
 
-[**SUPREME BENJAMIN**](https://wa.me/254769702239)    ----->                                                                                                                                                                                                                                                                                                                                                                                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                           
+                                                                                                                                                                                                                                                                                                                                                                                 
