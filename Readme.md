@@ -19,27 +19,30 @@
 
 🔗SETUP
 
-
 [**FORK**](https:/you /github.com/Maven-Nexus/Spark-Md) FIRST and star 🌟 
 
 Get SESSION ID by Pairing code or Scanning QR: 
 
-   [**SESSION TAB**](https://supresession-c8207054b6c5.herokuapp.com/) ; <br><br>
-_Copy the session ID to paste it on HEROKU
+
+[**SESSIONS TAB**](https://supresession-c8207054b6c5.herokuapp.com/) ; <br><br>         
+
 
 🔗 DEPLOY TO HEROKU 
 
  
-If You Don't Have An Account On HEROKU  [**CREATE ACCOUNT NOW**](https://id.heroku.com/login) 
+If You Don't Have An Account On HEROKU
+[**CREATE ACCOUNT NOW**](https://id.heroku.com/login) 
 
-If You Have An Heroku Account [**DEPLOY NOW**](https://dashboard.heroku.com/new?template=https://github.com/Maven-Nexus/Spark-Md) it 
+
+If You Have An Heroku Account  
+[**DEPLOY NOW**](https://dashboard.heroku.com/new?template=https://github.com/Maven-Nexus/Spark-Md) it 
 
 
 🔗 CONTRIBUTIONS
 
 Contribution to Supreme-Md are welcome!! If you have any idea for new Features , Improvement , Bug Fixes , Feel Free to Senda DM to the provided contact below.
 
-.[**Xander**](https://wa.me/2349024553612)
+.[**Xander Number**](https://wa.me/2349024553612)
 
 
  
