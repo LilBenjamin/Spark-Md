@@ -1,5 +1,5 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## Supreme-Md V1.0.0 
+## Spark-Md V1.0.0 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <div align="center">
@@ -11,7 +11,7 @@
 |----|
 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?
+ <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+Simple+WHATSAPP+BOT+Made+with+%F0%9F%A4%8D;SPARK+MD" alt="Typing SVG" /></a>
 
 
 
@@ -48,8 +48,10 @@ https://wa.me/2349024553612
 [**JOIN**](https://chat.whatsapp.com/Lq3VFHeqKXI5GNy3ZmadRG)
 
 🔗 TO JOIN OUR TELEGRAM CHANNEL.
-[**JOIN**](https://t.me/SupremeTech254) ----->
+[**JOIN**](https://t.me/SupremeTech254) 
 
-🔗 DEVELOPERS OF Supreme-Md                                                                                               [**SUPREME ALPHAA**](https://wa.me/254719846879)                                                                          
+<!---- 🔗 DEVELOPERS OF Supreme-Md             
 
-[**SUPREME BENJAMIN**](https://wa.me/254769702239)                                                                                                                                                                                                                                                                                                                                                                                     
+[**SUPREME ALPHAA**](https://wa.me/254719846879)                                                             
+
+[**SUPREME BENJAMIN**](https://wa.me/254769702239)    ----->                                                                                                                                                                                                                                                                                                                                                                                 
